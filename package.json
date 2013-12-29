@@ -1,0 +1,9 @@
+{
+    "name": "ya-rsa",
+    "main": "index.html",
+    "window": {
+        "toolbar": false,
+        "width": 620,
+        "height": 480
+    }
+}
